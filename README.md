@@ -5,9 +5,9 @@
 ## 1. 👨‍👧‍👧 팀원
 |이름|역할|github|
 |:---:|:---:|:---:|
-|김예원|팀장|||https://github.com/potatowon
-|오승재|팀원|||https://github.com/18-12847
-|허인영|팀원|||https://github.com/jupytergit
+|김예원|팀장|https://github.com/potatowon
+|오승재|팀원|https://github.com/18-12847
+|허인영|팀원|https://github.com/jupytergit
 
 ## 2. 🗓️ 프로젝트 기간
 2022.12.05 - 2022.12.08 
