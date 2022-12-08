@@ -23,4 +23,4 @@ python
 ## 5. 📈 [결과](네이버 증권 순위 mini PJ.ipynb)
 
 
-
+[결과](https//www.naver.com)
