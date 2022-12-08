@@ -20,6 +20,4 @@ python
 |:---:|:---:|
 |네이버 증권 뉴스|https://news.naver.com/main/list.naver?mode=LS2D&mid=shm&sid1=101&sid2=258|
 
-## 5. 📈 결과 
-[결과](Notebooks/네이버 증권 순위 mini PJ.ipynb)
-[결과](https//www.naver.com)
+## 5. 📈 [결과](https://github.com/potatowon/SBA_mini_Project/blob/master/Notebooks/%EB%84%A4%EC%9D%B4%EB%B2%84%20%EC%A6%9D%EA%B6%8C%20%EC%88%9C%EC%9C%84%20mini%20PJ.ipynb)
